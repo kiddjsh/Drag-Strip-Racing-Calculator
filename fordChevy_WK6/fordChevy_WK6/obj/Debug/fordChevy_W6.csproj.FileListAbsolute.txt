@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\fordChevy_W6\fordChevy_W6\bin\Debug\fordChevy_W6.exe.config
+c:\users\kidder\documents\visual studio 2012\Projects\fordChevy_W6\fordChevy_W6\bin\Debug\fordChevy_W6.exe
+c:\users\kidder\documents\visual studio 2012\Projects\fordChevy_W6\fordChevy_W6\bin\Debug\fordChevy_W6.pdb
+c:\users\kidder\documents\visual studio 2012\Projects\fordChevy_W6\fordChevy_W6\obj\Debug\fordChevy_W6.csprojResolveAssemblyReference.cache
+c:\users\kidder\documents\visual studio 2012\Projects\fordChevy_W6\fordChevy_W6\obj\Debug\fordChevy_W6.exe
+c:\users\kidder\documents\visual studio 2012\Projects\fordChevy_W6\fordChevy_W6\obj\Debug\fordChevy_W6.pdb
